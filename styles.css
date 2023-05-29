@@ -7,11 +7,7 @@ body{
   /*   border: 3px solid rgb(255, 0, 153); */
 
     background-color: #F5F5EC;
-    background-image: url(fondo_fluor.png);
-    background-repeat: no-repeat;
-    background-position: center;
     background-size: 90%;
-    /* color: #091DD0; color tipografía*/
 
 }
 .padre{
