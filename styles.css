@@ -52,7 +52,7 @@ body{
                      animation: arcoiris 6s infinite linear;
             }
         .linea{
-            width: 10%;
+            width: 100%;
             height: 1%;
             justify-self: center;
             border-bottom: 1px solid #091DD0;
