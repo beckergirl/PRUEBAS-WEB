@@ -1,5 +1,4 @@
 /* formulario */
-
 const btn = document.getElementById('button');
 
 document.getElementById('form')
@@ -14,7 +13,7 @@ document.getElementById('form')
    emailjs.sendForm(serviceID, templateID, this)
     .then(() => {
       btn.value = 'Send Email';
-      alert('¡ENVIADO!');
+      alert('Sent!');
     }, (err) => {
       btn.value = 'Send Email';
       alert(JSON.stringify(err));
