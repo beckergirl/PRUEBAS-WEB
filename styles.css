@@ -149,3 +149,21 @@ body{
                 margin-left: 3%;
 
               }
+
+
+   .contact{
+
+                margin: 0 auto;
+                
+              }
+              .form-control{
+                color: #091DD0;
+                font-size: large;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+              }
+              .btn-primary{
+                color:rgb(245, 105, 229);
+                font-size: larger;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+              }
+
